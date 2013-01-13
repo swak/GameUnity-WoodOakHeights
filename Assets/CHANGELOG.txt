@@ -1,0 +1,5 @@
+CHANGELOG
+
+version 0.0 (milestone for art assets)
+
+version 0.1 (milestone for alpha)

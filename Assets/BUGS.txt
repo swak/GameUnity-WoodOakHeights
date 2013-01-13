@@ -1,0 +1,54 @@
+#BUGS
+--------------------------------
+--------------------------------
+--------------------------------
+#Programmers TODO
+##Gameplay
+-add ability to switch weapons (3 to start)
+-add a food power up (health regen)
+-add a soda can powerup (increase speed for 2 min)
+-add swappable player avatar
+##Graphic
+-add character animations
+##GUI
+-add player health bar to screen
+-add enemy health bars above creature
+-add saved player high score and visible count
+##Network
+-next milestone
+
+##Creatures
+-creature must roam when no target can be found
+-creature must engage player when visible
+-creature must attack when within range
+-change to hit/miss depending on skill comparison
+--------------------------------
+PC CONTROL LAYOUT
+
+Move Foward : D
+Move Backwards : S
+Move Left : A
+Move Right : D
+Sight Stance : SPACEBAR (hold or toggle)
+Aim : Mouse Direction (relative to player)
+Fire Primary Weapon : LMB (while in sighted stance)
+Use Object : LMB (while moving stance)
+
+Cycle Camera Angle Foward : ]
+Cycle Camera Angle Backwards : [
+
+
+possible other keys:
+Q
+E
+C
+1
+2
+3
+4
+LEFTALT
+LEFTCTRL
+RMB
+
+
+--------------------------------
